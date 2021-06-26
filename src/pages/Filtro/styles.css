@@ -1,0 +1,25 @@
+input{
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+
+.foto{
+width: 900px;
+height: 700px;
+margin-left: 220px;
+}
+
+.roteiros li{
+    
+    background: #d6d6e9;
+    border: 1px solid #330635;
+    border-radius: 20px;
+    padding: 34px 80px;
+    margin-bottom: 50px;  
+    width: 100%;
+}
+
+h3, p{
+   color: purple ;
+   margin-bottom: 20px;
+}

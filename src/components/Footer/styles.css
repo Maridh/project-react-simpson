@@ -1,0 +1,21 @@
+
+.footer {
+    margin: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer li {
+    margin-left: 4rem;
+    list-style: none;
+}
+
+
+@media (max-width:768px){
+    .footer {
+        margin: 2rem;
+        display: flex;
+        justify-content: flex-start;
+    }
+}

@@ -9,6 +9,7 @@
 .main-simpson .card{
     background-color: wheat;
     width: 350px;
+    height: 420px;
     display: flex;
     flex-direction: column;
     justify-content: center;

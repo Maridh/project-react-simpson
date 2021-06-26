@@ -11,6 +11,11 @@ const Footer = () => {
         <div>
             <ul className="footer">
                 <li>
+                    Mariana Herreros<br></br>Desenvolvedora front end júnior<br>
+                    </br>
+                    Amo aprender e desenvolver novas skills.
+                </li>
+                <li>
                     <a target="_blank"
                         rel="noreferrer" className="midias" href="https://www.instagram.com/marianasherreros/" >
                         <img src={Insta} alt="Logo Instagram" />
@@ -31,6 +36,7 @@ const Footer = () => {
                 </li>
             </ul>
         </div>
+
     )
 }
 

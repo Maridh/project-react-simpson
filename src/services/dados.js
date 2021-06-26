@@ -23,7 +23,7 @@ const trilhas = [
     {
         id: 4,
         nome: "Três Picos",
-        local: "Teresópolis",
+        local: "Teresópolis/RJ",
         km:"45 km",
         foto: "https://s2.glbimg.com/FfSX4H1Crlls764aGUoL-kTdGGQ=/0x0:1080x810/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/N/n/qFXcLCS8CIxsnGfBhb0g/tres-picos.jpg" 
     }
